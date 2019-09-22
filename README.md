@@ -3,13 +3,15 @@
 ## Criptografia - AES e modos de operação
 ## Prof. Avelino Zorzo – Escola Politécnica/PUCRS
 
-```
-Neste trabalho você tem que implementar um sistema para cifrar/decifrar usando a cifra de blocos AES, com os modos de operação CBC e CTR. Em todos os casos o IV de 16 bytes é escolhido de maneira aleatória e anexada na frente do texto cifrado. Para o modo de operação CBC, usar PKCS5.
-Implementar a cifragem e decifragem. Abaixo são dados as chaves para o AES, e o texto cifrado ou texto claro. Sua tarefa é recuperar o texto claro para aqueles que estão cifrados e cifrar o texto claro. Todos os textos estão em hexadecimal.  Para a implementação pode-se utilizer qualquer linguagem que forneça uma biblioteca para o AES, por exemplo, PyCrypto (Python), Crypto++ (C++), Java. 
-Submeter sua implementação e um artigo com até duas páginas com sua solução e as respostas.
 
-Desafio valendo um ponto extra: Implementar os modos de operação você mesmo. 
-```
+Neste trabalho você tem que implementar um sistema para cifrar/decifrar usando a cifra de blocos AES, com os modos de operação CBC e CTR. Em todos os casos o IV de 16 bytes é escolhido de maneira aleatória e anexada na frente do texto cifrado. Para o modo de operação CBC, usar PKCS5.    
+
+Implementar a cifragem e decifragem. Abaixo são dados as chaves para o AES, e o texto cifrado ou texto claro. Sua tarefa é recuperar o texto claro para aqueles que estão cifrados e cifrar o texto claro. Todos os textos estão em hexadecimal.  Para a implementação pode-se utilizer qualquer linguagem que forneça uma biblioteca para o AES, por exemplo, PyCrypto (Python), Crypto++ (C++), Java.     
+
+Submeter sua implementação e um artigo com até duas páginas com sua solução e as respostas.    
+
+Desafio valendo um ponto extra: Implementar os modos de operação você mesmo.     
+
 
 Tarefa 1 
 *	CBC key: 140b41b22a29beb4061bda66b6747e14
