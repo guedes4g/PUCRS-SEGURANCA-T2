@@ -12,6 +12,10 @@ Submeter sua implementação e um artigo com até duas páginas com sua soluçã
 
 Desafio valendo um ponto extra: Implementar os modos de operação você mesmo.     
 
+### CBC
+![cbcPNG](https://user-images.githubusercontent.com/29311988/65390188-3abc4b80-dd33-11e9-830d-949d1bc290e6.PNG)
+### CTR
+![ctr](https://user-images.githubusercontent.com/29311988/65390186-38f28800-dd33-11e9-85e0-8602b0966208.PNG)
 
 Tarefa 1 
 *	CBC key: 140b41b22a29beb4061bda66b6747e14
