@@ -18,10 +18,9 @@ Desafio valendo um ponto extra: Implementar os modos de operação você mesmo.
 ![ctr](https://user-images.githubusercontent.com/29311988/65390186-38f28800-dd33-11e9-85e0-8602b0966208.PNG)
 
 Tarefa 1 
-*	CBC key: 140b41b22a29beb4061bda66b6747e14
+*	CBC key: 
 *	CBC Ciphertext: 
 4ca00ff4c898d61e1edbf1800618fb2828a226d160dad07883d04e008a7897ee2e4b7465d5290d0c0e6c6822236e1daafb94ffe0c5da05d9476be028ad7c1d81
-
 
 Tarefa 2
 *	CBC key: 140b41b22a29beb4061bda66b6747e14
